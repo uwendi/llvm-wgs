@@ -23,12 +23,7 @@ Refer to <https://discourse.llvm.org/t/llvm-qualification-wg-sync-ups-meeting-mi
 
 ## Links
 
-[docs.google.com](https://docs.google.com/presentation/d/1ND2SkjgcHvcEbQmMd8ExL-PpRXouP49T-wfy3xf2yRQ/edit?slide=id.p1#slide=id.p1)
-
-### [202510\_llvm\_qual\_wg](https://docs.google.com/presentation/d/1ND2SkjgcHvcEbQmMd8ExL-PpRXouP49T-wfy3xf2yRQ/edit?slide=id.p1#slide=id.p1)
-
-LLVM Qualification WG Sync-up meeting #4 October 2025 Focus: Upstream efforts and backlog
-
+- [202510\_llvm\_qual\_wg](https://docs.google.com/presentation/d/1ND2SkjgcHvcEbQmMd8ExL-PpRXouP49T-wfy3xf2yRQ/edit?slide=id.p1#slide=id.p1)
 - RFC Clang C++ conformance: <https://discourse.llvm.org/t/rfc-c-conformance-test-suite/69821>
 - RFC Human-error prediction: <https://discourse.llvm.org/t/rfc-a-human-centered-approach-to-proactively-improve-llvm-code-and-documentation-quality/87903>
 - ISO/PAS 8926: <https://www.iso.org/standard/83346.html>
