@@ -8,9 +8,7 @@ cc: [@evodius96](https://discourse.llvm.org/u/evodius96) [@PLeVasseur](https://d
 
 For our upcoming sync-up (tomorrow), we have more items on the agenda than we can realistically cover in one hour. Here’s a draft of the presentation (the final version will be uploaded to GitHub after the sync-up):
 
-[docs.google.com](https://docs.google.com/presentation/d/1SZAE-QHfJED6CxJCCtBkPDxcw7XU9ORX54TJyXe1ppc/edit?usp=sharing)
-
-### [202509\_llvm\_qual\_wg](https://docs.google.com/presentation/d/1SZAE-QHfJED6CxJCCtBkPDxcw7XU9ORX54TJyXe1ppc/edit?usp=sharing)
+[202509\_llvm\_qual\_wg](https://docs.google.com/presentation/d/1SZAE-QHfJED6CxJCCtBkPDxcw7XU9ORX54TJyXe1ppc/edit?usp=sharing)
 
 LLVM Qualification WG Sync-up meeting #3 September 2025 Focus: Directions for a grey-box validation approach
 
