@@ -17,18 +17,8 @@ Refer to [LLVM Qualification WG sync-ups meeting minutes - #17 by uwendi](https:
 
 ## Links
 
-[docs.google.com](https://docs.google.com/presentation/d/1-JpF6kMbth1hL0ZkwRyHQ9A7edqd2vwM3U7Y9QcfQfI/edit?slide=id.g3acb06ff9f7_2_258#slide=id.g3acb06ff9f7_2_258)
-
-### [llvm\_qual\_grp\_lib\_qual\_dec\_2025](https://docs.google.com/presentation/d/1-JpF6kMbth1hL0ZkwRyHQ9A7edqd2vwM3U7Y9QcfQfI/edit?slide=id.g3acb06ff9f7_2_258#slide=id.g3acb06ff9f7_2_258)
-
-LLVM Qualification WG By Petter Berntsson December 2025 Topic: Function-based Qualification of C/C++ Standard Library Functions
-
-
-[docs.google.com](https://docs.google.com/presentation/d/1MfhoPcHxJuaZalBhgUz3lfL8qwy4tp2Act3-fT2Uyh8/edit?slide=id.p1#slide=id.p1)
-
-### [202512\_llvm\_qual\_wg](https://docs.google.com/presentation/d/1MfhoPcHxJuaZalBhgUz3lfL8qwy4tp2Act3-fT2Uyh8/edit?slide=id.p1#slide=id.p1)
-
-LLVM Qualification WG Sync-up meeting #6 December 2025 Focus: Function-Level Qualification Methodology for libc/libc++
+- [llvm\_qual\_grp\_lib\_qual\_dec\_2025](https://docs.google.com/presentation/d/1-JpF6kMbth1hL0ZkwRyHQ9A7edqd2vwM3U7Y9QcfQfI/edit?slide=id.g3acb06ff9f7_2_258#slide=id.g3acb06ff9f7_2_258)
+- [202512\_llvm\_qual\_wg](https://docs.google.com/presentation/d/1MfhoPcHxJuaZalBhgUz3lfL8qwy4tp2Act3-fT2Uyh8/edit?slide=id.p1#slide=id.p1)
 
 Gemini notes taken, modified by [@uwendi](https://discourse.llvm.org/u/uwendi)
 
