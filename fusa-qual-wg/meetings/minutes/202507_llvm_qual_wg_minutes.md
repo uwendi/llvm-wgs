@@ -42,10 +42,7 @@
 - Focus discussion: Requirements & Traceability
 - Next steps?
 
-![](https://us1.discourse-cdn.com/flex021/uploads/llvm/original/3X/1/4/14714c36061f406b48ba0191e00d8fbc4d2ee769.png)
 [Mentimeter](https://www.menti.com/alistrrjqwbc)
-
-![](https://us1.discourse-cdn.com/flex021/uploads/llvm/optimized/3X/0/9/09109185c45710cc377642d3f530d4d0e48dfe66_2_690x376.jpeg)
 
 ### [llvm-fusa-qual-wg-sync-up-1 - Mentimeter](https://www.menti.com/alistrrjqwbc)
 
