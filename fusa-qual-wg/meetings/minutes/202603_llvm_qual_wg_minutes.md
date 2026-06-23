@@ -13,35 +13,7 @@
 
 ## Links
 
-[github.com/mrragava/llvm-project](https://github.com/mrragava/llvm-project/blob/ragava/threat-model-proposal/llvm/docs/ThreatModel.md)
-
-#### [threat-model-proposal/llvm/docs/ThreatModel.md](https://github.com/mrragava/llvm-project/blob/ragava/threat-model-proposal/llvm/docs/ThreatModel.md)
-
-[`ragava`](https://github.com/mrragava/llvm-project/blob/ragava/threat-model-proposal/llvm/docs/ThreatModel.md)
-
-```
-# **A Trust-Based Threat Model for the LLVM Compiler Infrastructure**
-
-This document establishes a **trust-based threat model** for the LLVM compiler infrastructure, complementing the official security policy by defining trust boundaries, security responsibilities, and core assumptions for each component. It serves as a guide for developers, integrators, and security teams to understand the security posture of the toolchain.
-
-LLVM's diverse ecosystem requires a multi-layered threat model, as a single security approach is insufficient for a toolchain that spans from source code parsing to machine code generation and runtime libraries. Instead of traditional frameworks like STRIDE, this document defines a **trust-based model** that classifies components based on their input assumptions and security responsibilities. This approach clarifies where security is enforced and where it is delegated, enabling developers and integrators to apply appropriate controls. The model categorizes components into three primary security postures:
-
-| Security Posture | Description | Input Assumptions | Validation and Controls |
-| :---- | :---- | :---- | :---- |
-| **Active (Defensive)** | Explicit security controls with threat protection mechanisms | Expects potentially malicious or adversarial inputs | Performs significant input validation and sanitization with security hardening through runtime checks |
-| **Passive (Pass-Through)** | Minimal security intervention | Trusts inputs are well-formed and benign | Limited validation that delegates security to external layers, focusing on correctness and performance optimization |
-| **Hybrid** | Selective security measures based on operational requirements | Generally trusts inputs but validates critical aspects | Internal checks for correctness and integrity while balancing security and performance |
-
-Most LLVM components operate under a **Passive** or **Hybrid** posture, assuming well-formed inputs and delegating security enforcement to other layers. This enables aggressive optimization but requires integrators to implement defense-in-depth measures such as sandboxing, input validation, and runtime protections.
-
----
-
-# **Assumptions and Trust Boundaries of LLVM Components**
-
-LLVM implements a multi-layered trust boundary model across its toolchain. The following table summarizes the key security assumptions, trust boundaries, and integrator requirements for each component. Understanding these is essential for implementing appropriate security controls. Note that the **security-sensitive** designation in the table indicates whether vulnerabilities in that component require coordinated disclosure through the LLVM Security Response Group.
-```
-
-This file has been truncated. [show original](https://github.com/mrragava/llvm-project/blob/ragava/threat-model-proposal/llvm/docs/ThreatModel.md)
+[threat-model-proposal/llvm/docs/ThreatModel.md](https://github.com/mrragava/llvm-project/blob/ragava/threat-model-proposal/llvm/docs/ThreatModel.md)
 
 ## Highlights
 
